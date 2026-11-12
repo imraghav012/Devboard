@@ -1,0 +1,33 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,1uF,C_0402_1005Metric,112.6,-83.4,0,top
+C2,0.1uF,C_0402_1005Metric,104.75,-80,180,top
+C3,0.1uF,C_0402_1005Metric,116.25,-79.5,0,top
+C4,0.1uF,C_0402_1005Metric,115.6,-76,0,top
+C5,0.1uF,C_0402_1005Metric,110,-70.5,90,top
+C6,0.1uF,C_0402_1005Metric,105.8,-75,180,top
+C7,0.1uF,C_0402_1005Metric,112.2,-71.2,-90,top
+C8,0.1uF,C_0402_1005Metric,113.2,-73.2,90,top
+C9,0.1uF,C_0402_1005Metric,114.4,-73.6,90,top
+C10,1uF,C_0402_1005Metric,114.2,-71,90,top
+C11,0.1uF,C_0402_1005Metric,113.2,-71.2,90,top
+C12,0.1uF,C_0402_1005Metric,115.2,-75,0,top
+C13,10uF,C_0603_1608Metric,108,-63.2,180,top
+C14,10uF,C_0603_1608Metric,107.225,-57.6,180,top
+C15,33pF,C_0402_1005Metric,107.2,-86.2,90,top
+C16,33pF,C_0402_1005Metric,112.8,-86,90,top
+J1,USB_C_Receptacle_USB2.0_14P,USB_C_Receptacle_HRO_TYPE-C-31-M-12,110.5,-51.5,180,top
+J2,Conn_01x20_Pin,PinHeader_1x20_P2.54mm_Vertical,119.39,-50.37,0,top
+J3,Conn_01x20_Pin,PinHeader_1x20_P2.54mm_Vertical,101.61,-50.37,0,top
+J4,Conn_01x03_Pin,PinHeader_1x03_P2.54mm_Vertical,107.96,-98.39,90,top
+R1,5.1K,R_0402_1005Metric,109.4,-58,90,top
+R2,5.1K,R_0402_1005Metric,112,-58,90,top
+R3,27,R_0402_1005Metric,112.2,-73.2,90,top
+R4,27,R_0402_1005Metric,111.2,-73.2,90,top
+R5,1K,R_0402_1005Metric,110.6,-83.4,180,top
+R6,1K,R_0402_1005Metric,105.6,-69,-90,top
+R7,10K,R_0402_1005Metric,107.4,-69.4,0,top
+SW1,SW_Push,SW_Push_SPST_NO_Alps_SKRK,114.25,-65.75,-90,top
+U1,RP2040,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,110.5,-78.5,0,top
+U2,MCP1700x-300xxTT,SOT-23,108,-60.4,90,top
+U3,W25Q128JVS,Winbond_USON-8-1EP_3x2mm_P0.5mm_EP0.2x1.6mm,107.2,-71.4,0,top
+Y1,12 MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,110.2,-86,180,top
